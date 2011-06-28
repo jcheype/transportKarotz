@@ -1,0 +1,6 @@
+Incident Transport application for Karotz
+
+In order to package your app juste run:
+    zip transport *
+
+and upload the "transport.zip" to the karotzLab
